@@ -19,7 +19,7 @@ DOMAIN = "blink"
 #
 # See README.md for full instructions.
 # Bug references: home-assistant/core#158760, #173520, #176708, #177284
-HARDWARE_ID = "REPLACE-WITH-YOUR-OWN-UUID-0000-000000000000"
+HARDWARE_ID = "30c30a3-4f4d-42ce-80c5-5d1496ce918a"
 
 CONF_MIGRATE = "migrate"
 CONF_CAMERA = "camera"
